@@ -1,0 +1,14 @@
+{
+  "ltex.dictionary" : {
+    "en-US": [
+      ":/home/aneeq/.config/lvim/spell/ltex.dictionary.en-US.txt"
+    ]
+  },
+  "ltex.disabledRules": {
+    "en-US": [
+      ":/home/aneeq/.config/lvim/spell/ltex.dictionary.en-US.txt",
+      "MORFOLOGIK_RULE_EN_US",
+      "ARROWS"
+    ]
+  } 
+}
